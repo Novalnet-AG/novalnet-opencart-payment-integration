@@ -3,7 +3,7 @@ Novalnet’s Payment Plugin ensures simple and secure integration of payments an
 ## Requirements 
 Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for using this Novalnet Payment Gateway for OpenCart. The plugin is available for the 3.0.0.0 - 3.0.3.2 versions in the following languages: EN & DE. 
 ## Advanced functions for payment processing
-- Easy configuration of <a href="https://www.novalnet.de/kostenlose-payment-plugins"> international and local payment methods </a>
+- Easy configuration of <a href="https://www.novalnet.de/zahlungsabwicklung"> international and local payment methods </a>
 - One PCI DSS certified <a href="https://www.novalnet.de/plattform"> payment platform </a>for all payment services
 - Credit Card iframe integration with custom CSS configuration 
 - Credit Card with 3D Secure
