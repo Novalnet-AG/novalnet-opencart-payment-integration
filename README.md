@@ -37,10 +37,10 @@ For detailed documentation and other technical inquiries, please send us an emai
 - <a href="https://www.novalnet.de/kauf-auf-rechnung-100-prozent-zahlungsgarantie">Invoice with payment guarantee </a>
 ## Installation
 Easy installation of Novalnet Payment Plugin for OpenCart will be done through the following steps: 
-    1. Get the payment plugin & detailed documentation by <a href="https://www.novalnet.de/kontakt/sales"> contacting us </a>
-    2. Install plugin to your OpenCart shop 
-    3. Configure Product Activation Key in the shop admin panel 
-    4. Activate & configure the preferred payment types in your shop admin panel
+1. Get the payment plugin & detailed documentation by <a href="https://www.novalnet.de/kontakt/sales"> contacting us </a>
+2. Install plugin to your OpenCart shop 
+3. Configure Product Activation Key in the shop admin panel 
+4. Activate & configure the preferred payment types in your shop admin panel
 ## License  
 See our License Agreement at: https://www.novalnet.de/payment-plugins/kostenlos/lizenz 
 ## Documentation & Support
