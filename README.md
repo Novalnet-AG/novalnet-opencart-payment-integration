@@ -19,7 +19,8 @@ Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required f
 - Refund options for various payment types
 - Setting a time limit for orders & automatic order cancellation when limit is exceeded
 - Cancelling subscriptions in the shops’ frontend and admin side
-- Responsive templates <br>
+- Responsive templates 
+
 For detailed documentation and other technical inquiries, please send us an email at technic@novalnet.de.
 ## Integrated payment methods
 - <a href="https://www.novalnet.de/sepa-lastschrift">Direct Debit SEPA </a>
