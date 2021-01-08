@@ -1,7 +1,7 @@
 # NOVALNET PAYMENT INTEGRATION FOR OPENCART
 Novalnet’s Payment Plugin ensures simple and secure integration of payments and payment services for OpenCart shops, allowing shop owners to automate the entire payment process from checkout till collection. 
 ## Requirements 
-Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for using this Novalnet Payment Gateway for OpenCart. The plugin is available for the 3.0.0.0 - 3.0.3.2 versions in the following languages: EN & DE. 
+Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for using this Novalnet Payment Gateway for OpenCart. The plugin is available for the 3.0.0.0 - 3.0.3.6 versions in the following languages: EN & DE. 
 ## Advanced functions for payment processing
 - Easy configuration of <a href="https://www.novalnet.de/zahlungsabwicklung"> international and local payment methods </a>
 - One PCI DSS certified <a href="https://www.novalnet.de/plattform"> payment platform </a>for all payment services
@@ -43,7 +43,7 @@ Easy installation of Novalnet Payment Plugin for OpenCart will be done through t
 3. Configure Product Activation Key in the shop admin panel 
 4. Activate & configure the preferred payment types in your shop admin panel
 ## License  
-See our License Agreement at: https://www.novalnet.de/payment-plugins/kostenlos/lizenz 
+See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license 
 ## Documentation & Support
 For more information about the Novalnet Payment Plugin for OpenCart and prizing, please get in touch with us: sales@novalnet.de or +49 89 9230683-20<br>
 
